@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project presents a comprehensive SQL-based analysis of Indian parliamentary election results using a structured relational database. The objective of the project is to simulate real-world data analyst tasks by transforming raw election datasets into meaningful insights using MySQL.
+This project presents a comprehensive SQL-based analysis of Indian parliamentary election results using a structured relational database. The objective of the project is to simulate real-world data analyst tasks by transforming raw election datasets into meaningful insights using MySQLSERVER.
 
 The dataset includes detailed information about constituencies, candidates, parties, and state-level voting results. Through SQL queries and relational database design, the project explores patterns in vote distribution, party performance, and constituency-level outcomes.
 
@@ -101,8 +101,7 @@ This project highlights several important data analyst skills:
 
 ## Tools and Technologies
 
-* MySQL
-* SQL Server / MySQL Workbench
+* SQL Server 
 * CSV Data Processing
 * GitHub for version control
 * Kaggle dataset source
